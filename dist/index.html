@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Real-time Charater Counter</title>
+  <link rel="stylesheet" href="../src/style.css" />
+  <!-- Favicon (kh)-->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,
+    <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'>
+      <rect width='200' height='200' fill='black'/>
+      <text x='50%' y='55%' font-size='40' fill='white' text-anchor='middle' font-family='Arial'>kh</text>
+    </svg>">
+</head>
+
+<body>
+  <div class="container">
+    <h2>Real-time Charater Counter</h2>
+    <textarea id="textarea" class="textarea" placeholder="Please write your text here..."></textarea>
+    <div class="counter-container">
+      <p>
+        Total Charaters:
+        <span class="total-counter" id="total-counter"></span>
+      </p>
+      <p>
+        Remaining:
+        <span class="remaining-counter" id="remaining-counter"></span>
+      </p>
+    </div>
+  </div>
+  <script src="../src/script.js"></script>
+</body>
+
+</html>
