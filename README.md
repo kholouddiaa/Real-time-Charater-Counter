@@ -88,10 +88,10 @@ remainingCounter.textContent = 50 - inputText.value.length;
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](docs/Screenshot%202026-02-15%20072849.png)
+![Home Page](docs/Screenshot%202026-02-15%20072841.png)
 
 ### ✍️ Typing Example
-![Typing Example](docs/Screenshot%202026-02-15%20072841.png)
+![Typing Example](docs/Screenshot%202026-02-15%20072849.png)
 
 ---
 
