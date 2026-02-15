@@ -87,11 +87,11 @@ remainingCounter.textContent = 50 - inputText.value.length;
 
 ## 📸 Screenshots
 
-You can add screenshots inside the `docs/` folder and display them here:
+### 🏠 Home Page
+![Home Page](docs/Screenshot%202026-02-15%20072849.png)
 
-```md
-![App Screenshot](docs/screenshot.png)
-```
+### ✍️ Typing Example
+![Typing Example](docs/Screenshot%202026-02-15%20072841.png)
 
 ---
 
